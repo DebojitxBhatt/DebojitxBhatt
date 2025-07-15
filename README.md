@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debojit</h1>
-<h3 align="center">Backend Developer with touch of React</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 - 🔭 I’m currently working on [Chatly-realtime-ChatApp](https://github.com/DebojitxBhatt/Chatly-realtime-chat)
