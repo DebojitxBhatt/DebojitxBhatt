@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **debojitbhattacharya.official@gmail.com**
 
-- 📄 [View my Resume](https://drive.google.com/file/d/1nC08gj5xy66U8X1FAn_klvutxwGo1bP4/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
