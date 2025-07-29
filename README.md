@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debojit</h1>
 <h3 align="center">Backend Developer</h3>
 
-
-- 🔭 I’m currently working on [Chatly-realtime-ChatApp](https://github.com/DebojitxBhatt/Chatly-realtime-chat)
-
-- 🌱 I’m currently learning **Node.js**
-
 - 👨‍💻 All of my projects are available at [Projects](github.com/DebojitxBhatt?tab=repositories)
 
 - 📫 How to reach me **debojitbhattacharya.official@gmail.com**
