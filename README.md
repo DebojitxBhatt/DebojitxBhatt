@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/debojit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debojit02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debojitbhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debojitbhattacharya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/debojit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debojit02" height="30" width="40" /></a>
+
 </p>
 
 
