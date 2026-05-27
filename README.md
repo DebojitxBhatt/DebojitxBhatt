@@ -19,9 +19,6 @@
 
 I am a Backend Developer focused on scalable, high-concurrency architectures and automated AI pipelines. I specialize in building real-time systems and bridging the gap between raw data and intelligent automation.
 
-- 🚀 Currently working as a **Backend Engineer**, architecting high-availability systems and audio-to-text pipelines using Gemini and Whisper LLMs.
-- 🎓 Holds a **B.Sc. in Statistics and Mathematics**.
-- 🛠️ Deeply focused on system design, concurrent traffic handling, and state-driven automation.
 - 📂 All of my projects are available at my [Repositories](https://github.com/DebojitxBhatt?tab=repositories).
 
 ---
