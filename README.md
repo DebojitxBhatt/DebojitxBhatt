@@ -4,7 +4,7 @@
   <br/>
   
   <h1>Hi 👋, I'm Debojit Bhattacharya</h1>
-  <h3>Backend Engineer & AI Integration Specialist</h3>
+  <h3>Backend Engineer</h3>
   
   <p>
     <a href="https://twitter.com/debojitxdev" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="debojit02" /></a>
